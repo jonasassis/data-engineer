@@ -18,13 +18,14 @@ Engenheiro de Dados com conhecimentos sólidos, um profissional que saiba propor
 
 - Mais de 3 anos de experiência com projetos Big Data e engenharia de dados
 - Arquitetura Batch, Streaming, Lambda e Kappa
-- Conhecimento em Java ou Scala
+- Conhecimento em alguma linguagem de programação, Java, Scala ou Python
+- Conhecimento em Kafka (Desejável)
 - Conhecimento em plataformas Cloud
 - Experiência em Big Data
 - Ingestão e processamento de dados em DataLake e Data Warehouse
 - Construção de dashboards para análise (Grafana, Kibana, Power BI, Tableau)
 - Conhecimentos sólidos em Linux
-- Sólidos conhecimentos em containers Docker (construção e publicação
+Sólidos conhecimentos em containers Docker (construção e publicação)
 
 ## Proficiência 
 
