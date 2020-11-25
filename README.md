@@ -4,7 +4,7 @@ Uma empresa que utiliza o qu​​e há de mais recente em termos de tecnologia 
 
 Trabalhamos em parceria com nossos clientes para oferecer todo suporte necessário, cumprindo prazos e resultados que o mundo corporativo exige.
 
-Inovar no negócio, nas estratégias, na tecnologia, nos processos traz resultados, isso é o que a ST IT Consulting tem realizado juntamente com seus clientes, investir com Inteligência e eficiência.​​
+Inovar no negócio, nas estratégias, na tecnologia, nos processos traz resultados, isso é o que a ST IT Data tem realizado juntamente com seus clientes, investir com Inteligência e eficiência.​​
 
 # Porque trabalhar na ST IT?
 
