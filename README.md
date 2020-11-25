@@ -8,7 +8,7 @@ Inovar no negócio, nas estratégias, na tecnologia, nos processos traz resultad
 
 # Porque trabalhar na ST IT?
 
-Somos uma empresa colaborativa, com equipes multidisciplinares, que trabalham bem em equipe, mas com autonomia, somos um empresa formadora de líderes e que tem foco na gestão de pessoas, não apenas gestão técnica
+Somos uma empresa colaborativa, com equipes multidisciplinares, que trabalham bem em equipe, mas com autonomia, somos um empresa formadora de líderes e que tem foco na gestão de pessoas, não apenas gestão técnica.
 
 # Sobre a Vaga
 
